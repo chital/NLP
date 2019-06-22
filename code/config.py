@@ -1,0 +1,5 @@
+clothing_review = "D:\\Office Projects\\NLP\\data\\clothing.csv"
+airline_review = "D:\\Office Projects\\NLP\\data\\airline.csv"
+hotel_review = "D:\\Office Projects\\NLP\\data\\Hotel_Reviews.csv"
+training_data = "D:\\Office Projects\\NLP\\data\\train_Reviews.csv"
+prediction_data = "D:\\Office Projects\\NLP\\data\\predict_Reviews.csv"
